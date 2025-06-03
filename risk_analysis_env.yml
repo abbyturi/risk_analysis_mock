@@ -1,0 +1,34 @@
+name: risk_analysis_env_yml
+channels:
+  - conda-forge
+  - pytorch
+  - anaconda
+  - plotly
+  - defaults
+dependencies:
+  - python==3.12
+  - ipykernel
+  - nb_conda_kernels
+  - matplotlib
+  - pandas
+  - requests
+  - ipywidgets
+  - plotly
+  - jupyter-dash
+  - scikit-learn
+  - protobuf==4.25.3
+  - wordcloud
+  - seaborn
+  - spacy
+  - panel
+  - xgboost
+  - shap
+  - lime
+  - pyarrow
+  - openpyxl
+  - pip
+  - pip:
+      - kaleido
+      - pyppeteer
+      - mglearn
+      - dash-bootstrap-components
