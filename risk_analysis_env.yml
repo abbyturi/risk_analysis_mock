@@ -26,6 +26,11 @@ dependencies:
   - lime
   - pyarrow
   - openpyxl
+  - pymc
+  - arviz
+  - yfinance
+  - pyportfolioopt
+  - scipy
   - pip
   - pip:
       - kaleido
