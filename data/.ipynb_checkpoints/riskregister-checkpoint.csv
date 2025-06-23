@@ -1,0 +1,33 @@
+﻿Risk #,The Risk of/That,Likelihood Score,Impact Score
+1,Maintainance costs,9,1
+2,Techn obsolescence,5,2
+3,Vendor Lock-In with increased cost of upgrades or modifications to switch to another tech provider,7,4
+4,Legal and litigation costs of compliance settlement for possible AI produced legal issues ,9,6
+5,Cost Savings through tech efficiency,9,8
+6,Initial operational costs for human capital and physical capital,9,9
+7,Change Management,7,1
+8,Limited human capital,5,2
+9,Third-party tool dependancy for operations and vendor releability ,9,4
+10,Integration issues with the existing infrustructure/database leading to disruption in immigration processing,3,6
+11,Data accuracy,5,8
+12,System failure/down time,7,9
+13,Tech readiness and user experience,1,4
+14,"Decision accuracy by rivals (the US, UK, EU, Australia)",3,6
+15,Cost of lagging in tech adoption,9,8
+16,Global market competition from rival agencies using AI leading to industry standards,3,9
+17,Efficient and timely immigration processing for enhanced user experience,9,1
+18,Sytem failure,7,2
+19,minimal human touch in decisions for algorithmic blind spot empathy,5,4
+20,Data privacy breaches,3,8
+21,"Ethical concerns of fairness, algorithmic bias and discrimination issues",5,9
+22,Algorithm Performance,1,1
+23,Malicious/adversary attack tolerance,9,2
+24,System scalability,7,4
+25,Training data quality,5,6
+26,Algorithmic bias,5,8
+27,Limited training data,9,9
+28,Vendor compliance,5,1
+29,Conflict with regulatory standards of transparency and explainability ffor AI decisions,9,4
+30,Bias and Discrimination legal costs,7,6
+31,Regulatory Changes that call for adjustments to the exisiting AI systems,1,8
+32,compliance risk (privacy and security of applicants),3,9
